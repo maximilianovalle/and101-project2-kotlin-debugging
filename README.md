@@ -25,8 +25,6 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 <img src='./kotlin-debugging.gif' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
-
 ## License
 
 Copyright **2025** **Maximiliano Ovalle**
